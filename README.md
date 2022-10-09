@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Adam, a full-time full-stack freelance developer 👨‍💻.</div>  
+### <div align="center">I'm Adam, a starting developer. Studying on SPSMB 👨‍💻.</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on Java Calculator
   
 
 - 🌱 I’m currently learning JS, Java  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything
   
 
 - ⚡ Fun fact: I use tabs over spaces
